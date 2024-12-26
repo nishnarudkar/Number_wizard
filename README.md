@@ -24,7 +24,7 @@ Welcome to **Number Wizard**, an engaging and interactive number-guessing game b
 *Guess the number and get instant feedback.*
 
 ### 3. Game Over
-![Game Over](screenshots/game_over.png)  
+![Game Over](https://github.com/nishnarudkar/Number_wizard/blob/main/screenshots/gamewin.png)  
 *Celebrate your win or restart for another try.*
 
 ---
