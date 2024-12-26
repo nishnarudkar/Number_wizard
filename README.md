@@ -16,11 +16,11 @@ Welcome to **Number Wizard**, an engaging and interactive number-guessing game b
 ## 📸 Screenshots
 
 ### 1. Home Screen
-![Home Screen](screenshots/home_screen.png)  
+![Home Screen]()  
 *Choose your difficulty level and start the game.*
 
 ### 2. Gameplay in Progress
-![Gameplay](screenshots/gameplay.png)  
+![Gameplay](https://github.com/nishnarudkar/Number_wizard/blob/main/screenshots/gameplay_in_progress.png)  
 *Guess the number and get instant feedback.*
 
 ### 3. Game Over
@@ -132,8 +132,8 @@ We welcome contributions to make this project even better! Follow these steps:
 ## 🧑‍💻 Author
 
 **Your Name**  
-- GitHub: [your-username](https://github.com/nishnarudkar)  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/nishant-narudkar-1b5225238/)  
+- GitHub: [nishnarudkar](https://github.com/nishnarudkar)  
+- LinkedIn: [NishantNarudkar](https://www.linkedin.com/in/nishant-narudkar-1b5225238/)  
 
 ---
 
