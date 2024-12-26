@@ -16,7 +16,7 @@ Welcome to **Number Wizard**, an engaging and interactive number-guessing game b
 ## 📸 Screenshots
 
 ### 1. Home Screen
-![Home Screen]()  
+![Home Screen](https://github.com/nishnarudkar/Number_wizard/blob/main/screenshots/home_screen.png)  
 *Choose your difficulty level and start the game.*
 
 ### 2. Gameplay in Progress
