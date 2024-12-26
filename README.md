@@ -63,25 +63,20 @@ Welcome to **Number Wizard**, an engaging and interactive number-guessing game b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/number-wizard.git
+   git clone https://github.com/nishnarudkar/number-wizard.git
    cd number-wizard
    ```
-2. Create and activate a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the app:
+3. Run the app:
    ```bash
    streamlit run main.py
    ```
 
-5. Open the URL displayed in the terminal (e.g., `http://localhost:8501`) in your browser to play the game.
+4. Open the URL displayed in the terminal (e.g., `http://localhost:8501`) in your browser to play the game.
 
 ---
 
